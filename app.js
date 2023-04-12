@@ -9,5 +9,5 @@ app.use("/users",userRoute)
 
 
 app.listen(8080,function(){
-    console.log("server berjalan")
+    console.log("server berjalan pada port 8080")
 })
